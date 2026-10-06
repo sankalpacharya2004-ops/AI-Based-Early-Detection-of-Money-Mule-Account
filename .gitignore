@@ -10,6 +10,9 @@ env/
 venv/
 ENV/
 
+# Cloned reference repos
+nfpc-mule-repo/
+
 # IDE / Editor
 .vscode/
 .idea/
